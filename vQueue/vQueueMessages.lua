@@ -336,6 +336,7 @@ CATARGS = {
 -- TBC
 	["ramp"]={
 		"ramp",
+		"ramparts",
 	},
 	["sp"]={
 		"sp",
@@ -359,7 +360,7 @@ CATARGS = {
 	},
 	["mech"]={
 		"mech",
-		"mechanar".
+		"mechanar",
 	},
 	["sl"]={
 		"sl",
@@ -382,9 +383,11 @@ CATARGS = {
 	},
 	["cot1"]={
 		"cot1",
+		"ohf",
 	},
 	["cot2"]={
 		"cot2",
+		"bm",
 	},
 	["mt"]={
 		"mt",
