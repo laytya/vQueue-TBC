@@ -340,12 +340,15 @@ CATARGS = {
 	},
 	["sp"]={
 		"sp",
+		"slavepens",
 	},
 	["ub"]={
 		"ub",
+		"underbog",
 	},
 	["bf"]={
 		"bf",
+		"blood furnace",
 	},
 	["mana"]={
 		"mana",
@@ -354,9 +357,12 @@ CATARGS = {
 	},
 	["ac"]={
 		"ac",
+		"auchenai",
+		"crypts",
 	},
 	["seth"]={
 		"seth",
+		"sethekk",
 	},
 	["mech"]={
 		"mech",
@@ -364,6 +370,8 @@ CATARGS = {
 	},
 	["sl"]={
 		"sl",
+		"slab",
+		"slabs",
 	},
 	["sv"]={
 		"sv",
@@ -372,7 +380,8 @@ CATARGS = {
 	},
 	["sh"]={
 		"sh",
-		"sethekk",
+		"shh",
+		
 	},
 	["arca"]={
 		"arca",
